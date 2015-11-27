@@ -1,0 +1,13 @@
+h2.myTitle {
+	white-space: normal;
+	color: #222;
+	font-family: sans-serif;
+}
+
+a.item {
+	color: #222;
+}
+
+.score {
+	color: #e3272a;
+}
